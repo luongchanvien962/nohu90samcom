@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Nohu90 - Trò Chơi Nổ Hũ Trực Tuyến Hấp Dẫn, Cơ Hội Thắng Lớn Cùng Nhiều Nhà Cái Uy Tín
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nohu90 <https://nohu90sam.com/>`_ là một trò chơi nổ hũ trực tuyến thu hút đông đảo người chơi nhờ lối chơi đơn giản và cơ hội giành được phần thưởng lớn. Nohu90 không chỉ nổi bật với sự hấp dẫn của game slot cổ điển mà còn mang đến nhiều ưu điểm vượt trội, như giao diện dễ sử dụng, tỷ lệ cược hợp lý, và dịch vụ chăm sóc khách hàng tận tâm. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Các nhà cái uy tín như 789bet, New88, Hi88, Jun88, SHbet, F8bet, OK9, và 78WIN đều liên kết với Nohu90, tạo nên một môi trường cá cược an toàn, đa dạng và nhiều khuyến mãi hấp dẫn. Để thành công trong Nohu90, người chơi cần có chiến lược thông minh, xác định ngân sách rõ ràng, và chọn thời điểm chơi phù hợp. Việc chuẩn bị kỹ càng về thiết bị và tâm lý cũng là yếu tố quan trọng để tối ưu hóa trải nghiệm và tăng cơ hội chiến thắng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 39/19b Số 1, Phường 13, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0956479111. 
 
-.. toctree::
+Email: info@nohu90sam.com. 
 
-   usage
-   api
+Website: https://nohu90sam.com/ 
+
+#nohu90 #nhacainohu90 #trangchunohu90 #dangkynohu90 #linknohu90
